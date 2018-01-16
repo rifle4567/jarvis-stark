@@ -1,0 +1,9 @@
+a=100
+b=500
+c=(a+b)
+print(c)
+print("addition",a,"and",b,"is",a+b)
+
+a=10
+b=76
+print(a+b)
